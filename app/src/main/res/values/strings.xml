@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Stripe Payment</string>
     <string name="etm">Enter the amount</string>
+    <string name="pubKey">pk_test_51NygdISCYWsILI7BNULrls1Z2r1jLf1jrq2vrbeEnSoPpPKgAn12f5CWFXjiTGKmUVE3AbsCZi4A1ZJZVNTg2RSZ00jcghZqfs</string>
+    <string name="secKey">sk_test_51NygdISCYWsILI7BjEFObryzrOWWYej1Ekmq7m4TkpD5WRSsq7Q0WHDHluJMnpSiHonxTKllKeRUFM8HaY9zmfpB00MyVPRcGz</string>
     <string name="pay">Pay</string>
 </resources>
